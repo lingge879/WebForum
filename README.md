@@ -1,4 +1,4 @@
 WebForum
 ========
 
-This is a forum based on web.py frameword and sqlalchemy
+This is a forum based on web.py framework and sqlalchemy
